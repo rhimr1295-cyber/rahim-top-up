@@ -95,8 +95,8 @@ footer{text-align:center;padding:25px;color:#888;border-top:1px solid #282828;ma
 
 <script>
 const products=[
-{id:1,game:"ff",name:"Free Fire",pack:"100 جوهرة",price:250,emoji:"🔥"},
-{id:2,game:"ff",name:"Free Fire",pack:"310 جوهرة",price:650,emoji:"💎"},
+{id:1,game:"ff",name:"Free Fire",pack:"100 جوهرة",price:200,emoji:"🔥"},
+{id:2,game:"ff",name:"Free Fire",pack:"250 جوهرة",price:250,emoji:"💎"},
 {id:3,game:"ff",name:"Free Fire",pack:"520 جوهرة",price:1000,emoji:"✨"},
 {id:4,game:"pubg",name:"PUBG Mobile",pack:"60 UC",price:300,emoji:"🪖"},
 {id:5,game:"pubg",name:"PUBG Mobile",pack:"325 UC",price:1200,emoji:"🎯"},
