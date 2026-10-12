@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="ar" dir="rtl">
 <head>
 <meta charset="UTF-8">
@@ -84,7 +84,7 @@ footer{text-align:center;padding:25px;color:#888;border-top:1px solid #282828;ma
 <input id="player" placeholder="معرّف اللاعب ID">
 </div>
 <button class="order" onclick="order()">إرسال الطلب عبر واتساب</button>
-<p class="note">الأسعار المعروضة تجريبية. تأكد من الأسعار وتوفر الباقات قبل استقبال الطلبات. لا تدخل كلمة مرور حساب اللعبة.</p>
+<p class="note">الأسعار المعروضة تجريبية. تأكد من الأسعار وتوفر الباقات قبل استقبال الطلبات. أتدخل كلمة مرور حساب اللعبة.</p>
 </section>
 </main>
 <footer id="contact">
